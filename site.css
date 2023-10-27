@@ -1,0 +1,17 @@
+
+header {
+    display: flex;
+    background-color: #6e4609;
+    width: 75.5%;
+    height: 50px;
+}
+
+nav {
+       display: flex;
+      justify-content: flex-end;
+}
+
+li {
+    list-style: none;
+}
+
